@@ -61,9 +61,6 @@ esl_master_android/
 - [Screenshots](#screenshots)
 - [Requirements](#requirements)
 - [Installation](#installation)
-- [Configuration](#configuration)
-- [Usage](#usage)
-- [Tests](#tests)
 
 ## Features
 
