@@ -4,18 +4,19 @@ The project is to use for adult English learners to improve their knowledge of E
 This repository contains the source code for the Android application. For the backend, please refer to https://gitlab.com/mxm_yrmnk/wordfrequency
 
 
-## Authors and acknowledgment
+# Authors and acknowledgment
 
-# Team Name: Team JRSSR
-# CSUN - Spring 2023 - COMP 680 - Advanced Software Engineering
+Team Name: Team JRSSR
 
-# Team Members:             Github/Gitlab:
+CSUN - Spring 2023 - COMP 680 - Advanced Software Engineering
 
-# Shant Arslanian 	        @Shant.arslanian.472
-# Sergio Ramirez 	        @SergioRamirez1001
-# Robin Yousefi 	        @robinYousefi
-# Jonathan Cordova          @cordova-jon1618
-# Ricardo Lopez-Aparicio    @imricardolopez
+Team Members:             Github/Gitlab:
+
+Shant Arslanian 	        @Shant.arslanian.472
+Sergio Ramirez 	          @SergioRamirez1001
+Robin Yousefi 	          @robinYousefi
+Jonathan Cordova          @cordova-jon1618
+Ricardo Lopez-Aparicio    @imricardolopez
 
 
 # Project structure
@@ -74,17 +75,6 @@ Non-intrusive presentation: The user interface showcases the dictionary informat
 Example Use Case
 A user selects a word within the contextual example and taps the dictionary button. The system promptly retrieves and exhibits the word's dictionary information, including aspects like definition, pronunciation, and part of speech, in a separate section or window. This enables users to effortlessly access and comprehend the meaning and usage of the chosen word without interrupting their current engagement with the application.
 
-
-## Authors and acknowledgment
-
-By Team JRSSR - COMP 680 - CSUN - Spring 2023
-Team Members:                Github/Gitlab
-
-Shant Arslanian 	        @Shant.arslanian.472
-Sergio Ramirez 	            @SergioRamirez1001
-Robin Yousefi 	            @robinYousefi
-Jonathan Cordova            @cordova-jon1618
-Ricardo Lopez-Aparicio 		@imricardolopez
 
 ## Requirements
 
