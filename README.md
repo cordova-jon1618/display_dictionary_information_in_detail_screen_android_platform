@@ -10,9 +10,9 @@ This project was done as the frontend for California State University, Northridg
 
 ### Team Members and Github/Gitlab:
 --------------
-●	Jonathan Cordova          @cordova-jon1618
+●	Jonathan Cordova          @cordova-jon1618          https://github.com/cordova-jon1618
 
-●	Sergio Ramirez 	          @SergioRamirez1001
+●	Sergio Ramirez 	          @SergioRamirez1001        https://github.com/F2Binary
 
 ●	Shant Arslanian 	        @Shant.arslanian.472
 
