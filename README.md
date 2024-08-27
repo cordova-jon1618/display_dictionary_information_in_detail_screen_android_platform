@@ -79,6 +79,18 @@ Non-intrusive presentation: The user interface showcases the dictionary informat
 Example Use Case
 A user selects a word within the contextual example and taps the dictionary button. The system promptly retrieves and exhibits the word's dictionary information, including aspects like definition, pronunciation, and part of speech, in a separate section or window. This enables users to effortlessly access and comprehend the meaning and usage of the chosen word without interrupting their current engagement with the application.
 
+## Screenshots of our App
+--------------
+
+![android_dict_screenshot4](https://github.com/user-attachments/assets/3ae14633-5aa4-44a1-987a-99552c604a20)
+
+![android_dict_screenshot3](https://github.com/user-attachments/assets/629554b4-7b4c-4894-8c77-db57b04c2314)
+
+![android_dict_screenshot2](https://github.com/user-attachments/assets/1d652eaf-0503-41bb-9959-607842f3c74e)
+
+![android_dict_screenshot1](https://github.com/user-attachments/assets/d503d8bd-bb36-49fd-917c-2b01757998e9)
+
+--------------
 
 ## Requirements
 
@@ -94,17 +106,5 @@ A user selects a word within the contextual example and taps the dictionary butt
 1. Clone this repository: `git clone https://gitlab.com/esl_master/esl_master_android.git`
 2. Open the project in Android Studio.
 3. Set up emulator
-
-
-## Screenshots of our App
---------------
-
-![android_dict_screenshot4](https://github.com/user-attachments/assets/3ae14633-5aa4-44a1-987a-99552c604a20)
-
-![android_dict_screenshot3](https://github.com/user-attachments/assets/629554b4-7b4c-4894-8c77-db57b04c2314)
-
-![android_dict_screenshot2](https://github.com/user-attachments/assets/1d652eaf-0503-41bb-9959-607842f3c74e)
-
-![android_dict_screenshot1](https://github.com/user-attachments/assets/d503d8bd-bb36-49fd-917c-2b01757998e9)
 
 --------------
