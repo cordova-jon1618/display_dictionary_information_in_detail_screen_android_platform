@@ -1,0 +1,1 @@
+# display_dictionary_information_in_detail_screen_android_platform
