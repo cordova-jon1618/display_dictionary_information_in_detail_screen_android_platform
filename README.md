@@ -58,6 +58,7 @@ esl_master_android/
 ## Table of Contents
 
 - [Features](#features)
+- [Screenshots](#screenshots)
 - [Requirements](#requirements)
 - [Installation](#installation)
 - [Configuration](#configuration)
@@ -79,7 +80,7 @@ Non-intrusive presentation: The user interface showcases the dictionary informat
 Example Use Case
 A user selects a word within the contextual example and taps the dictionary button. The system promptly retrieves and exhibits the word's dictionary information, including aspects like definition, pronunciation, and part of speech, in a separate section or window. This enables users to effortlessly access and comprehend the meaning and usage of the chosen word without interrupting their current engagement with the application.
 
-## Screenshots of our App
+## Screenshots
 --------------
 
 ![android_dict_screenshot4](https://github.com/user-attachments/assets/3ae14633-5aa4-44a1-987a-99552c604a20)
