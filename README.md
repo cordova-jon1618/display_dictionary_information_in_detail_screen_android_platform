@@ -8,21 +8,23 @@ This project was done as the frontend for California State University, Northridg
 # Authors and Acknowledgment
 --------------
 
-### Team Members:         Github/Gitlab:
---------------            --------------
+### Team Members and Github/Gitlab:
+--------------
 
-### Shant Arslanian 	        @Shant.arslanian.472
+####Shant Arslanian 	        @Shant.arslanian.472
 
-### Sergio Ramirez 	          @SergioRamirez1001
+####Sergio Ramirez 	          @SergioRamirez1001
 
-### Robin Yousefi 	          @robinYousefi
+####Robin Yousefi 	          @robinYousefi
 
-### Jonathan Cordova          @cordova-jon1618
+####Jonathan Cordova          @cordova-jon1618
 
-### Ricardo Lopez-Aparicio    @imricardolopez
+####Ricardo Lopez-Aparicio    @imricardolopez
 
+--------------
 
 # Project structure
+--------------
 
 ```
 
