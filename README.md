@@ -95,16 +95,16 @@ A user selects a word within the contextual example and taps the dictionary butt
 2. Open the project in Android Studio.
 3. Set up emulator
 
-## Configuration
 
-- TBD
+## Screenshots of our App
+--------------
 
-## Usage
+![android_dict_screenshot4](https://github.com/user-attachments/assets/3ae14633-5aa4-44a1-987a-99552c604a20)
 
-- TBD
+![android_dict_screenshot3](https://github.com/user-attachments/assets/629554b4-7b4c-4894-8c77-db57b04c2314)
 
-## Tests
+![android_dict_screenshot2](https://github.com/user-attachments/assets/1d652eaf-0503-41bb-9959-607842f3c74e)
 
-- TBD
+![android_dict_screenshot1](https://github.com/user-attachments/assets/d503d8bd-bb36-49fd-917c-2b01757998e9)
 
-
+--------------
