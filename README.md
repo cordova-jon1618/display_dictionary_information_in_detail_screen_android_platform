@@ -4,9 +4,9 @@ The project is to use for adult English learners to improve their knowledge of E
 This repository contains the source code for the Android application. For the backend, please refer to https://gitlab.com/mxm_yrmnk/wordfrequency
 
 
-# Authors and acknowledgment
+# Authors and Acknowledgment
 
-Team Name: Team JRSSR
+### Team Name: Team JRSSR
 
 CSUN - Spring 2023 - COMP 680 - Advanced Software Engineering
 
