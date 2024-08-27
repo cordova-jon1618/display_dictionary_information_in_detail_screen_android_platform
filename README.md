@@ -1,21 +1,29 @@
 # ESL Master
-
+--------------
 The project is to use for adult English learners to improve their knowledge of English. It uses a contextual approach to language learning and also uses documents as entry parameters to help establish the context in which to learn. The project is in the very beginning.
 This repository contains the source code for the Android application. For the backend, please refer to https://gitlab.com/mxm_yrmnk/wordfrequency
 
 
 # Authors and Acknowledgment
+--------------
 
-### Team Name: Team JRSSR
+### Team JRSSR
+--------------
 
-CSUN - Spring 2023 - COMP 680 - Advanced Software Engineering
+### CSUN - Spring 2023 - COMP 680 - Advanced Software Engineering
+--------------
 
-Team Members:             Github/Gitlab:
+### Team Members:         Github/Gitlab:
+--------------            --------------
 
 Shant Arslanian 	        @Shant.arslanian.472
+
 Sergio Ramirez 	          @SergioRamirez1001
+
 Robin Yousefi 	          @robinYousefi
+
 Jonathan Cordova          @cordova-jon1618
+
 Ricardo Lopez-Aparicio    @imricardolopez
 
 
