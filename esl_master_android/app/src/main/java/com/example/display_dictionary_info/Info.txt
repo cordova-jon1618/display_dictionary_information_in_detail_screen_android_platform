@@ -1,0 +1,9 @@
+// Team JRSSR - COMP 680
+// Authors and acknowledgment
+// Team Members:                Github/Gitlab
+//
+// Shant Arslanian 	            @Shant.arslanian.472
+// Sergio Ramirez 	            @SergioRamirez1001
+// Robin Yousefi 	            @robinYousefi
+// Jonathan Cordova             @cordova-jon1618
+// Ricardo Lopez-Aparicio 		@imricardolopez

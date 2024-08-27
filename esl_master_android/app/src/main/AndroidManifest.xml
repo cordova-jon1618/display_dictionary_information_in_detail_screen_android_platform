@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.display_dictionary_info">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:theme="@style/AppTheme"
+        tools:targetApi="31">
+        <activity
+            android:name="com.example.display_dictionary_info.WisecrackActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.display_dictionary_info.ClassroomActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.display_dictionary_info.DairyActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.display_dictionary_info.BudgeActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.display_dictionary_info.RiderActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.display_dictionary_info.SmoothActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.display_dictionary_info.FoxActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.example.display_dictionary_info.DisplayDictionaryInfoActivity"
+            android:exported="true"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
